@@ -1,0 +1,12 @@
+=> we can use css with three ways
+1. Inline css
+2. Internal css
+3. external css
+<h1 style=("color:red");>hello</h1>
+          (property)-(value) (:;)colon-semi colon 
+(selector(out of decleration) {under the colon}) decleration block
+"4 types of selecoters"
+1.Name selector <>
+2.Class selector .
+3.Id selector #
+4.Universal selector *
